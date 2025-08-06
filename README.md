@@ -59,7 +59,7 @@ cat ~/.ssh/id_ed25519.pub
 # Add it to GitHub: https://github.com/settings/keys
 
 # Point repo remote to SSH
-git remote set-url origin git@github.com:jose3vazquez/Hardware-Knowledgebase.git
+git remote set-url origin git@github.com:username/repo-name.git
 
 # Stage and commit a file
 git add somefile.txt
